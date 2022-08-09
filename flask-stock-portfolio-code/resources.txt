@@ -1,1 +1,5 @@
 - https://pragprog.com/search/?q=python-testing-with-pytest
+- https://martinfowler.com/bliki/GivenWhenThen.html
+- https://docs.pytest.org/en/latest/explanation/goodpractices.html#conventions-for-python-test-discovery
+- https://snarky.ca/why-you-should-use-python-m-pip/
+- https://www.softwaretestinghelp.com/the-difference-between-unit-integration-and-functional-testing/

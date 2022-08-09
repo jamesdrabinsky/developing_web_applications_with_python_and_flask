@@ -26,8 +26,8 @@ def index():
 
 @app.route('/about', methods=['GET'])
 def about():
-    return render_template('about.html')
-    # return render_template('about.html', company_name='TestDriven.io')
+    # return render_template('about.html')
+    return render_template('about.html', company_name='TestDriven.io')
 
 
 @app.route('/stocks/', methods=['GET'])
