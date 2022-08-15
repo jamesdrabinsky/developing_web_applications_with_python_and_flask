@@ -10,3 +10,6 @@ CSS
 
 - https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT
 - https://developer.mozilla.org/en-US/docs/Web/CSS
+
+BLUEPRINTS
+- https://flask.palletsprojects.com/en/2.2.x/blueprints/
