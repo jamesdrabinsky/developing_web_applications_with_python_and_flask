@@ -13,3 +13,12 @@ CSS
 
 BLUEPRINTS
 - https://flask.palletsprojects.com/en/2.2.x/blueprints/
+
+CONFIGURATION
+- https://flask.palletsprojects.com/en/2.2.x/config/
+
+APPLICATION FACTORIES
+- https://flask.palletsprojects.com/en/2.2.x/patterns/appfactories/
+
+CONCURRENCY
+- https://www.youtube.com/watch?v=9zinZmE3Ogk

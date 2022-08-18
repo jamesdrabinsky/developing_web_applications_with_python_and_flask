@@ -7,8 +7,6 @@
   --gutters: 24px;
 
   --card-bg-color: #FFF;
-
-  --radius: 1rem;
 }
 
 
@@ -154,7 +152,7 @@ h2 {
 /* Content Styling
  *****************/
 .content {
-  max-width: 950px;
+  max-width: 920px;
   margin: 40px auto;
 }
 
